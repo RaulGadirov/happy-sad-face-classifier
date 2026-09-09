@@ -56,7 +56,3 @@ print(model.predict(test).round())
 
 - This is a minimal proof-of-concept trained on a very small dataset (20 images), intended for learning purposes rather than production use.
 - Because the dataset is so small, the model is prone to overfitting — results may not generalize well to new images.
-
-## License
-
-MIT
